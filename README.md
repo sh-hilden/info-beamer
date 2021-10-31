@@ -1,3 +1,9 @@
+**⚠️⚠️⚠️ This repository is no longer maintained or supported ⚠️⚠️⚠️**
+
+All info-beamer development is continued on https://info-beamer.com
+
+---
+
 About info-beamer
 =================
 
